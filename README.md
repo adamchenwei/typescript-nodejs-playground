@@ -7,8 +7,8 @@ I mainly use this to do algorithm practices. But feel free to use this to suit y
 
 # Requirements
 
-Node JS v18.13.0+
-[Recommended] To use this together with VSCode to take advantage of the default typescript setup. (Because, well, that's how I use this app :P)
+- Node JS v18.13.0+
+- [Recommended] To use this together with VSCode to take advantage of the default typescript setup. (Because, well, that's how I use this app :P)
 
 # How to start coding in typescript with this project
 
