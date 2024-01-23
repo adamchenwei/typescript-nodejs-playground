@@ -1,4 +1,10 @@
 
+# Why this app exist?
+
+I can't find a light weight typescript UI that I can use to code typescript locally without depending on internet (i.e. on airplane, subway, basement, etc) So I made this app for the future me and whoever may need it as well.
+
+I mainly use this to do algorithm practices. But feel free to use this to suit your need or definitely contribute to make this better if you found of this little boi!
+
 # Requirements
 
 Node JS v18.13.0+
